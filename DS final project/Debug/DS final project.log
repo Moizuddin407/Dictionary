@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  texteditor.cpp
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\ds final project\ds final project\texteditor.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  DS final project.vcxproj -> C:\Users\Hp\source\repos\DS final project\Debug\DS final project.exe
